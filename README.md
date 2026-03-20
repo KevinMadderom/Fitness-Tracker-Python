@@ -6,7 +6,7 @@ The current state works as intended, there will be additions as well as user-int
 
 ---
 
-## 🚀 How to Run
+How to Run
 
 1. Make sure you have **Python 3.11** or later installed.
 2. Open a terminal in the project folder.
